@@ -2,13 +2,9 @@
 errors listed below, and try again.
 
 
-File "game/script.rpy", line 68: expected ':' not found.
-    label choice_yes
-                    ^
-
-File "game/script.rpy", line 79: expected ':' not found.
-    label choice_no
-                   ^
+File "game/script.rpy", line 111: Line is followed by a block, despite not being a menu choice. Did you forget a colon at the end of the line?
+    "Dine with the Doctor."
+                           ^
 
 Ren'Py Version: Ren'Py 8.0.0.22062402
-Mon Jul  4 22:31:19 2022
+Tue Jul  5 19:19:17 2022
