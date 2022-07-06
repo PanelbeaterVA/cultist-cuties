@@ -1,18 +1,15 @@
-# cultist-cuties
-##### By One Braincell Games
+# Cultist Cuties (working title)
+>A dating sim about cosmic horrors and the cultists who love them (and each other)
 
-### A dating sim about cosmic horrors and the cultists who love them (and each other)
-
-
-#### Description
+## Description
 
 Cultist Cuties (working title) is dating simulator visual novel built using Ren'Py, partially inspired by Weather Factory's [Cultist Simulator](https://weatherfactory.biz/cultist-simulator/).
 
 While Vic was streaming Cultist Simulator, Kale wanted to be able to romance the "Weary Detective" character, but this is not possible. A joke was shared that it would be possible to create a visual novel about a cult member romancing other cult members, their pursuers and even the elder god being the cult worshipped.
 
-In under 24 hours, Kale had written a test narrative, Vic had started to learn Ren'Py and we had roped Jack in to be involved with art. The
+In under 24 hours, Kale had written a test narrative, Vic had started to learn Ren'Py and we had roped Jack in to be involved with art.
 
-##### Run Project Locally
+### Run Project Locally
 
 - Download [Ren'Py](https://www.renpy.org).[^1]
 - Clone this repository using `https://github.com/PanelbeaterVA/cultist-cuties.git`
